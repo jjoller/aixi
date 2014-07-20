@@ -4,6 +4,10 @@ import java.io.File;
 import java.io.FileNotFoundException;
 import java.util.Scanner;
 
+/**
+ * Functionality for loading settings.
+ *
+ */
 public abstract class Settings implements Cloneable {
 
 	/**
