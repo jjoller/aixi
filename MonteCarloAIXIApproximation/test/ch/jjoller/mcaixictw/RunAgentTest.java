@@ -12,9 +12,9 @@ import ch.jjoller.mcaixictw.environments.CoinFlipEnv;
 import ch.jjoller.mcaixictw.worldmodels.WorldModelSettings;
 import ch.jjoller.mcaixictw.worldmodels.Worldmodel;
 
-public class AgentControllerTest {
+public class RunAgentTest {
 
-	private static Logger log = Logger.getLogger(AgentControllerTest.class
+	private static Logger log = Logger.getLogger(RunAgentTest.class
 			.getName());
 
 	@BeforeClass
